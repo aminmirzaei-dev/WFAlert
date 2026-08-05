@@ -1,4 +1,4 @@
-# WFAlertProject
+# WFAlert WinForms Library
 
 <h2> 👨‍💻 About Project</h2>
 Alert message display library in Windows form (light and simple version)<br />
